@@ -5,6 +5,11 @@ git branch _branchName_
 git checkout _branchName_
 Branches allow you to work off of the master so, for example, you can pause development on the branch project, fix something in the master, and go back to the branch.
 
+git checkout master
+goes back to the master branch
+git merge _branchName_
+
+
 using 'typeof' + variableName will return what type of variable variableName is.
 For example:
 var numVariable = 2;
