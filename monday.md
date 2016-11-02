@@ -1,3 +1,5 @@
+# monday
+
 //after creating a repository on gitHub, "clone or download" and "clone with https". Then, copy the url and use:
 git clone __url__
 //in git bash
