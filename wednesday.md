@@ -9,3 +9,7 @@ prints "this is true"
 because it assigns 'wednesday' to var day and thus becomes truthy.
 
 no, NaN, undefined, 0, empty string, null is falsey, everything else? is truthy
+
+
+git push -u origin _branchName_
+-u tells git to link remote and local branches together
