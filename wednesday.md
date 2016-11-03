@@ -13,3 +13,6 @@ no, NaN, undefined, 0, empty string, null is falsey, everything else? is truthy
 
 git push -u origin _branchName_
 -u tells git to link remote and local branches together
+
+git branch -d _branchName_
+deletes the branch locally
